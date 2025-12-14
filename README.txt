@@ -1,0 +1,4 @@
+iPhone対応Web版ウクレレコード画像エディター
+
+index.htmlをSafariで開いて使ってください。
+PNGは長押し保存できます。
